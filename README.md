@@ -1,5 +1,7 @@
 # Continuous Control
 
+![alt text](https://video.udacity-data.com/topher/2018/June/5b1ea778_reacher/reacher.gif "Follow me!")
+
 In this repository a continuous control problem is solved using deep reinforcement learning, more specifically with Deep Deterministic Policy Gradient. The environment which is used here is Unity's Reacher. In this environment, a double jointed arm needs to reach moving target locations. 
 
 The environment has two versions:
